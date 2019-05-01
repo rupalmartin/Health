@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pet Health Details </string>
+
+    <!-- Strings related to Health -->
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese class I</string>
+    <string name="obese_class_ii">Obese class II</string>
+    <string name="obese_class_iii">Obese class III</string>
+    <string name="title_activity_steps">steps</string>
+</resources>
